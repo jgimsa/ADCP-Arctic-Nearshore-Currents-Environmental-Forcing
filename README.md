@@ -1,2 +1,6 @@
 # ADCP-Arctic-Nearshore-Currents-Environmental-Forcing
-ADCP and wave data MATLAB analysis for the master thesis
+MATLAB-Code for hydrodynamical data processing and statistical analysis for environmental driver detection
+
+Due to unpublished scientific analysis, this repository is not yet fully accessible, but will be ASAP afterwards
+Onced accepted, the data for the analysis will be in PANGAEA.
+Stay tuned!
